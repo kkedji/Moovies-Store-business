@@ -39,3 +39,4 @@ Feel free to explore and analyze the data further, and adapt the project to meet
 
 Contribution
 Contributions to this project are welcome. If you have any improvements, suggestions, or additional insights, please submit a pull request.
+You can find an article i wrote about this projetc on Medium at this link : https://medium.com/@skksean28/exploring-movies-rental-business-unveiling-insights-with-sql-and-data-analysis-856486864c88 
